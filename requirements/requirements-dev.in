@@ -1,0 +1,9 @@
+-r requirements.txt
+pip-tools
+fabric
+ipython<6.0
+tox
+flake8
+nose
+pytest
+nosexcover
